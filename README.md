@@ -24,7 +24,7 @@ The workflow includes:
 
 All project output screenshots are in the my_outputs folder:
 
-![Screenshot 1](my_outputs/screenshot1.png)
+![Screenshot 1](my_outputs/Screenshot%202025-10-03%20093557.png)
 ![Screenshot 2](my_outputs/screenshot2.png)
 ![Screenshot 3](my_outputs/screenshot3.png)
 
