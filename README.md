@@ -26,7 +26,7 @@ All project output screenshots are in the my_outputs folder:
 
 ![Screenshot 1](my_outputs/Screenshot%202025-10-03%20093557.png)
 ![Screenshot 2](my_outputs/Screenshot%202025-10-03%20093646.png)
-![Screenshot 3](my_outputs/screenshot3.png)
+![Screenshot 3](my_outputs/Screenshot%202025-10-03%20093701.png)
 
 ## Purpose
 This project demonstrates how to handle CSV data, perform data cleaning, store it in optimized formats, and integrate with Hive for querying and analytics—showcasing essential *big data engineering skills*.
