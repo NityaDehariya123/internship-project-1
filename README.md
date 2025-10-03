@@ -20,8 +20,13 @@ The workflow includes:
 - Parquet format  
 - Spark SQL & DataFrame API  
 
-## Project Notebook / Output
-The full code and output of this project can be viewed [here](./outputs/CSV_Data_Processing_Spark.html)
+## Output Screenshots
+
+All project output screenshots are in the my_outputs folder:
+
+![Screenshot 1](my_outputs/screenshot1.png)
+![Screenshot 2](my_outputs/screenshot2.png)
+![Screenshot 3](my_outputs/screenshot3.png)
 
 ## Purpose
 This project demonstrates how to handle CSV data, perform data cleaning, store it in optimized formats, and integrate with Hive for querying and analytics—showcasing essential *big data engineering skills*.
